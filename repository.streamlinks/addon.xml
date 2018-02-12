@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.streamlinks" name="streamlinks" version="0.0.1" provider-name="tonkatoy">
 	<extension point="xbmc.addon.repository" name="streamlinks">
 		<dir>
@@ -17,4 +16,3 @@
 		<genre>downloads,tech,australian,uk,usa</genre>
 	</extension>
 </addon>
-</addons>
